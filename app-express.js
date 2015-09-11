@@ -6,5 +6,5 @@ app.get('/', function(req, res) {
 });
 
 
-
+console.log('Hello, Node');
 app.listen(9999);
